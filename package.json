@@ -8,11 +8,9 @@
   "author": "Carey Evans",
   "license": "UNLICENSED",
   "dependencies": {
-    "gb-tracker-client": "^5.2.0-beta.1694077876",
-    "tslib": "^2.6.2"
+    "gb-tracker-client": "^5.2.0-beta.1694077876"
   },
   "devDependencies": {
-    "@tsconfig/recommended": "^1.0.3",
     "typescript": "^5.2.2"
   }
 }

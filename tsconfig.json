@@ -4,6 +4,7 @@
     "module": "es2020",
     "moduleResolution": "node",
     "strict": true,
+    "esModuleInterop": true,
     "outDir": "build"
   },
   "files": ["src/main.ts"]
